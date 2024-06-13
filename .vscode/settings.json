@@ -1,0 +1,13 @@
+{
+    "cSpell.ignorePaths": [
+        "pnpm-lock.yaml",
+        "node_modules",
+    ],
+    "cSpell.words": [
+        "CLIENTVAR",
+        "esbuild",
+        "nextjs",
+        "runtimes",
+        "tailwindcss"
+    ]
+}
