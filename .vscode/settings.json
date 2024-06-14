@@ -10,7 +10,8 @@
         "nextjs",
         "runtimes",
         "tailwindcss",
-        "Uploadthing"
+        "Uploadthing",
+        "utfs"
     ],
     "typescript.tsdk": "node_modules/typescript/lib"
 }
