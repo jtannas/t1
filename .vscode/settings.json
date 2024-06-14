@@ -4,11 +4,13 @@
         "node_modules",
     ],
     "cSpell.words": [
+        "clientside",
         "CLIENTVAR",
         "esbuild",
         "nextjs",
         "runtimes",
-        "tailwindcss"
+        "tailwindcss",
+        "Uploadthing"
     ],
     "typescript.tsdk": "node_modules/typescript/lib"
 }
